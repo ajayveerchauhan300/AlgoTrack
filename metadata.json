@@ -1,0 +1,6 @@
+{
+  "name": "AlgoTrack",
+  "description": "A full-stack coding progress tracker for LeetCode and Codeforces, featuring real-time rating trends, weak topic alerts, and an interactive AI Coding Mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

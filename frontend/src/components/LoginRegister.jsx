@@ -101,7 +101,7 @@ export default function LoginRegister({ onSuccess }) {
               <input
                 type="text"
                 required
-                placeholder="Ajay Chauhan"
+                placeholder="Ajay Veer Chauhan"
                 value={name}
                 onChange={(e) => setName(e.target.value)}
                 className="w-full glass-input rounded-xl px-4 py-3 placeholder-slate-500 focus:outline-none transition-all"

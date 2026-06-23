@@ -62,7 +62,7 @@ async function bootServer() {
 
     app.use(vite.middlewares);
   } else {
-    const distPath = path.join(process.cwd(), "frontend", "dist");
+    const distPath = path.join(process.cwd(), "dist");
 
     app.use(express.static(distPath));
 
